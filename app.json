@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "expo-nextjs-healthkit-playground",
+    "slug": "expo-nextjs-healthkit-playground",
+    "version": "1.0.0",
+    "sdkVersion": "43.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}
